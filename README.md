@@ -1,4 +1,4 @@
-![PrestoGuys](prestoguys.png)
+![PrestoGuys](prestoguycanter.png)
 
 
 <!---
