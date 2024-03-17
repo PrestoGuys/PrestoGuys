@@ -1,7 +1,17 @@
 ![PrestoGuys](prestoguycanter.png)
+<hr>
 
+  # About
 
-<!---
-PrestoGuys/PrestoGuys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Hello! Welcome to PrestoGuys on Github! I'm a YouTuber and I love to make websites.
+  I made my own search engine called [PrestoSearch](https://prestosearch.gihub.io)!
+
+  I love to code and make simple little games and projects!
+
+  # Socials
+  [Youtube](https://www.youtube.com/channel/UClqyH4uPCmvNVrCRZv7_ZsA) | 
+  [Twitter](https://twitter.com/PrestoGuys) | 
+  [Reddit](https://www.reddit.com/user/PrestoGuys/) | 
+  [Scratch](https://scratch.mit.edu/users/prestoguygame/)
+
+  
