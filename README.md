@@ -1,5 +1,4 @@
 ![PrestoGuys](prestoguycanter.png)
-<hr>
 
 # About
 
@@ -10,12 +9,12 @@ I love to code and make simple little games and projects!
 
 My [Website](https://prestoguys.github.io).
 
-# Socials
+# Social Media
 [Youtube](https://www.youtube.com/channel/UClqyH4uPCmvNVrCRZv7_ZsA) | 
 [Twitter](https://twitter.com/PrestoGuys) | 
 [Reddit](https://www.reddit.com/user/PrestoGuys/) | 
 [Scratch](https://scratch.mit.edu/users/prestoguygame/)
 
-<hr> 
+---
 
 README.md r/AB - 2024.04.21
