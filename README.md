@@ -1,4 +1,4 @@
-![PrestoGuys](PrestoGuys_Blackletter_Logo_.png)
+![PrestoGuys](PrestoGuys_Blackletter_Logo.png)
 
 # About
 
@@ -13,14 +13,15 @@ My [Website](https://prestoguys.github.io)
 
 My [Search Engine](https://prestosearch.gihub.io) (PrestoSearch)
 
----
-
 # Social Media
 [Youtube](https://www.youtube.com/channel/UClqyH4uPCmvNVrCRZv7_ZsA) | 
 [Twitter](https://twitter.com/PrestoGuys) | 
 [Reddit](https://www.reddit.com/user/PrestoGuys/) | 
 [Scratch](https://scratch.mit.edu/users/prestoguygame/)
 
+# Credits
+[Canterbury](https://www.1001fonts.com/canterbury-font.html) - Logo Font
+
 ---
 
-README.md r/AD - 2024.07.27
+README.md r/AE - 2024.07.27
