@@ -1,4 +1,4 @@
-![PrestoGuys](prestoguycanter.png)
+![PrestoGuys](PrestoGuys_Blackletter_Logo_.png)
 
 # About
 
@@ -23,4 +23,4 @@ My [Search Engine](https://prestosearch.gihub.io) (PrestoSearch)
 
 ---
 
-README.md r/AC - 2024.07.27
+README.md r/AD - 2024.07.27
